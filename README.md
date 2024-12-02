@@ -17,6 +17,8 @@ It contains:
 * optimization project: optimize the allocation of the resources to minimize fire induced cost (projected with a toy model)
 * computer vision project: use deep learning and add physics prior to learn to predict the next-day wildfire spread over [satellite images](https://arxiv.org/abs/2112.02447)
 
+<img src="artefacts/sit209experiment.png" alt="Pipeline" width="700"/>
+
 ## Data
 
 ### Raw data
